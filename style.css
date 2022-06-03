@@ -1,0 +1,713 @@
+
+	@font-face {
+      font-family: Avenir;
+      src: url(fonts/avenir_ff/AvenirLTStd-Roman.otf);
+    }
+	body{
+		font-family: Avenir;
+		background-color: white;
+	}
+    .footertext {
+  height: 19px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.submitbtn{
+	 height: 19px;
+  width: 132.39px;
+  color: #FFFFFF;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  height: 32px;
+  width: 200px;
+  border-radius: 4px;
+  background-color: #3F8EFC;
+  border: none;
+  position: relative;
+    top: 40px;
+}
+
+.formlabel{
+	height: 22px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  display: block;
+}
+
+.selectbox{
+	box-sizing: border-box;
+  height: 32px;
+  width: 172px;
+  border: 1px solid #EBEBEB;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+    margin-top: 10px;
+}
+.inputform{
+	box-sizing: border-box;
+  margin-top: 10px;
+    margin-bottom: 10px;
+  height: 32px;
+  width: 85%;
+ border: 1px solid #EBEBEB;
+  border-radius: 4px;
+  background-color: #FFFFFF;"
+}
+
+.formdesc3{
+	 height: 22px;
+  width: 188px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-style: oblique;
+  letter-spacing: 0;
+  line-height: 22px;
+
+}
+.formdesc2{  height: 22px;
+  width: 599px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+
+}
+
+ .formdesc1 {
+  	height: 27px;
+  width: 179px;
+  color: #3F8EFC;
+  font-family: Avenir;
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 27px;
+  }
+  .formview{height: 660px;
+  width: 98%;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  box-shadow: 0 4px 14px 0 rgba(0,0,0,0.1); margin-top: 5%;}
+
+.live-oxygen-status {
+  color: #3F8EFC;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 10px;
+}
+.time {
+  height: 14px;
+  width: 79px;
+  color: #3F8EFC;
+  font-family: Avenir;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 14px;
+
+}
+.hospitals-and-their {
+  height: 22px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+
+}
+.rectangle-1 {
+  height: 10px;
+  width: 10px;
+  border-radius: 2px;
+  background-color: #39C9A7;
+  display: block;
+}
+.rectangle-copy-6 {
+  height: 10px;
+  width: 10px;
+  border-radius: 2px;
+  background-color: #F15366;
+    display: block;
+}
+.hospital {
+  height: 14px;
+  width: 48px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+.firsttable{
+    border-color: rgb(222 226 230 / 0%);
+}
+.namehos {
+  height: 16px;
+  width: 215px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+.red-rectangle {
+     height: 24px;
+font-size: 10px;
+    border-radius: 4px;
+    background-color: rgb(241 83 102);
+    color: white;
+        text-align: center;
+}
+.green-rectangle {
+     height: 24px;
+     font-size: 10px;
+    border-radius: 4px;
+       background-color: rgb(57 201 167);
+    color: white;
+        text-align: center;
+}
+.orange-rectangle {
+     height: 24px;
+  font-size: 10px;
+    border-radius: 4px;
+    background-color: orange;
+    color: white;
+        text-align: center;
+}
+.blue-rectangle {
+     height: 24px;
+
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+    position: relative;
+    left: 3px;
+        text-align: center;
+}
+.orgrectangle-1 {
+  height: 10px;
+  width: 10px;
+
+  border-radius: 2px;
+  background-color: orange;
+  display: block;
+}
+.rectangles {
+  height: 32px;
+  width: 280px;
+  border-radius: 4px;
+  background-color: #3F8EFC;
+  position: relative;
+  left: 8em;
+  display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+.see-full-table {
+  height: 19px;
+  width: 222.07px;
+  color: #FFFFFF;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  position: relative;
+  top: 3px;
+  justify-content: space-around;
+      position: relative;
+    left: 30px;
+}
+        
+
+@font-face {
+      font-family: Avenir;
+      src: url(fonts/avenir_ff/AvenirLTStd-Roman.otf);
+    }
+.covid-19-oxygen-map {
+  height: 44px;
+  width: 443px;
+  color: #3F8EFC;
+  font-family: Avenir;
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 44px;
+}
+.oxygen-map-all {
+  height: 19px;
+  width: 265px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: relative;
+  top: -4em;
+}
+  [title~=Close]>img {
+    width: 19px !important;
+    height: 23px !important;
+    margin: 0px !important;
+    margin-top: 5px !important;
+}
+ 
+.rectangle {
+  height: 70px;
+  width: 100%;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,0.2);
+      display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: baseline;
+    flex-direction: row;
+}
+.group-4 {
+
+    align-items: center;
+        display: flex;
+   
+}
+.indicators{
+	display: flex;
+  height: 70px;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,0.1);
+
+}
+.red-circle-copy-5-red-circle {
+  height: 32px;
+  width: 32px;
+}
+.oxygen-needed-hospit {
+
+  width: 200px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 19px;
+  padding: 9px;
+
+
+}
+#map{
+    width: 100%;
+    height: 100%;
+}
+.group-10 {
+  height: 650px;
+  width: 1199.37px;
+}
+td,th{
+    text-align: left;
+    padding: 5px;
+        white-space: nowrap;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .below-reload{
+    flex-direction: column !important;;
+  }
+  .with-map{
+    width: 100% !important;
+  }
+
+
+}
+.covid-19-oxygen-map-text {
+  height: 33px;
+  color: #3F8EFC;
+  font-family: Avenir;
+  font-size: 24px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 33px;
+  padding-left: 1em;
+}
+.group-top {
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.needed {
+  height: 22px;
+  width: 61px;
+  color: #F15366;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+sub{
+    display: block;
+}
+.last-update {
+  height: 10px;
+  width: 74px;
+  color: #EBEBEB;
+  font-family: Avenir;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.83px;
+  line-height: 10px;
+}
+.oxygen-status-in-hos {
+  height: 22px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.rectangle-2 {
+  height: 10px;
+  width: 82px;
+  border-radius: 4px;
+  background-color: #606D82;
+}
+.last-update {
+  height: 10px;
+  width: 74px;
+  color: #EBEBEB;
+  font-family: Avenir;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.83px;
+  line-height: 10px;
+  position: relative;
+  left: 30px;
+}
+.timedate{
+    height: 10px;
+  width: 77px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: relative;
+  left: 41px;
+  top: 9px;
+      top: 7px;
+}
+.navbarbox{
+    height: 72px;background-color: #FFFFFF;
+    box-shadow: 0 2px 14px 0 rgba(66,66,66,0.1); align-content: center;
+    margin-bottom: 20px;
+
+}
+
+                .purpose-of-this-site {
+  height: 27px;
+
+  color: #FF5289;
+  font-family: Avenir;
+  font-size: 1em;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+.main-purpose-of-this {
+  height: 72px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.this-site-is-volunta {
+  height: 44px;
+  width: 572px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.tablebelow{
+width: 2%;text-align: center;  height: 22px;
+  width: 121px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  padding: 1.5rem .5rem !important;
+}
+.oxygen-status-around {
+  height: 22px;
+  width: 430px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.lastupdatebox{
+	height: 18px;
+     width: 82px;
+     border-radius: 4px;
+     background-color: #606D82;
+         position: relative;
+}
+.lastupdatetext{
+	height: 10px;
+                  width: 74px;
+                  color: #EBEBEB;
+                  font-family: Avenir;
+                  font-size: 10px;
+                  font-weight: 500;
+                  letter-spacing: 0.83px;
+                  line-height: 10px;
+                  
+    position: absolute;
+    top: 4px;
+    left: 4px;
+
+}
+.timedate{
+	  display: inline-block;
+    width: 120px;
+    position: relative;
+    left: 11px;
+}
+.requestoxygenText{
+    height: 20px;
+    color: rgb(255 255 255);
+    font-family: Avenir;
+    font-size: 13px;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+    padding: 3px;
+}
+.requestoxygenBtn{
+	  height: 32px;
+  width: 133px;
+  border-radius: 4px;
+  background-color: #3F8EFC;
+  border: none;
+}
+.disabledreqoxygenbtn{
+	background-color: #A7A7A7;
+		  height: 32px;
+  border-radius: 4px;
+
+  border: none;
+}
+.centertd{
+	display: flex;
+    align-content: space-around;
+    justify-content: space-around;
+}
+.centertbltext{
+	 height: 22px;text-align:center; 
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.leftaligntd {
+	  height: 22px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.table>:not(caption)>*>* {
+    padding: .5rem .5rem;
+    background-color: var(--bs-table-bg);
+    border-bottom-width: 1px;
+    box-shadow: none !important;
+}
+.sort-hospitals-by {
+  height: 22px;
+  width: 125px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.sortoptiontext{
+  height: 22px;
+  width: 63px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+
+.relodbtn {
+    display: flex;
+    align-items: center;
+    height: 32px;
+    width: 103px;
+    border-radius: 4px;
+    background-color: rgb(63 142 252);
+    border: none;
+    position: absolute;
+    right: 0;
+}
+
+
+
+.oxygen-status {
+  height: 22px;
+  width: 110px;
+  color: #383838;
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+  .active, .disabledreqoxygenbtn:hover {
+  background-color: rgb(13 110 253);
+  color: white;
+}
+
+.textOxygen{
+  margin-right: 14px;  
+  font-family: Avenir;
+  font-size: 8px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 11px;
+}
+.oxtextindicators{
+display:flex;flex-direction: row;align-items: center;
+justify-content: flex-end;margin-bottom: 5%;
+}
+.mob-map{
+  margin-top: 1em;
+}
+.sort{
+   position: absolute;
+    right: 0;
+}
+  @media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #search{
+    width: 80%;
+  }
+  .below-reload{
+    flex-direction: column !important;
+  }
+  .with-map{
+    width: 100% !important;
+  }
+  
+  .formview{
+  	height: 950px;
+  }
+  .detail_2{
+  	margin-top: 1% !important;
+  }
+
+  .submitbtn{
+  	width: 36% !important;
+  }
+  .purposeImage{
+  	width: 60%;
+  }
+
+
+ 
+ .mob{
+ 	margin-top: 5%;
+    transform: scale(.75);
+ }
+ .covid-19-oxygen-map-text{
+ 	font-size: 18px;
+ }
+
+ .oxygenStatus{
+      padding-left: 1.5em;
+ }
+.relodbtn{
+    margin-top: 1em;
+    margin-left: 1em;
+    left: 0pc;
+}
+ #map{
+ 	width: auto !important;
+ }
+.group-4 {
+    height: 49px;
+    width: 172px;
+}
+
+
+.oxygen-status-around {
+	width: auto;
+}
+.indicators{
+  display: none !important;
+}
+.indicator-mob{
+  display: block !important;
+}
+   
+.disabledreqoxygenbtn {
+
+
+    margin: 2px;
+
+}
+.mob-map{
+  margin-top: 3.5em;
+}
+
+.sort{
+  position: relative;
+}
+}
+
+
